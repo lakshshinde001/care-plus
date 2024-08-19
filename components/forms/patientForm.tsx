@@ -59,7 +59,6 @@ const  PatientForm = () =>  {
         placeholder="john doe"
         iconSrc="/assets/icons/user.svg"
         iconAlt="user"
-
       />
       
       <Button type="submit">Submit</Button>
